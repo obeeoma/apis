@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "FitBuddy",
+    "description": "An app that helps users find workout partners in their local area.",
+    "category": "Health & Fitness",
+    "complexity": "Intermediate",
+    "targetAudience": "Fitness Enthusiasts",
+    "trending": true
+  },
+  {
+    "id": 2,
+    "name": "RecipeRadar",
+    "description": "A cooking app that suggests recipes based on available ingredients in your kitchen.",
+    "category": "Food & Drink",
+    "complexity": "Beginner",
+    "targetAudience": "Home Cooks",
+    "trending": false
+  },
+  {
+    "id": 3,
+    "name": "StudySync",
+    "description": "An app that facilitates virtual study groups and collaborative learning sessions.",
+    "category": "Education",
+    "complexity": "Advanced",
+    "targetAudience": "Students",
+    "trending": true
+  },
+  {
+    "id": 4,
+    "name": "EcoTrack",
+    "description": "A sustainability app that helps users track their carbon footprint and suggests eco-friendly practices.",
+    "category": "Environmental",
+    "complexity": "Intermediate",
+    "targetAudience": "Environmentally Conscious",
+    "trending": true
+  },
+  {
+    "id": 5,
+    "name": "PodcastPicks",
+    "description": "An app that curates personalized podcast recommendations based on user preferences.",
+    "category": "Entertainment",
+    "complexity": "Beginner",
+    "targetAudience": "Podcast Enthusiasts",
+    "trending": false
+  },
+  {
+    "id": 6,
+    "name": "JobJolt",
+    "description": "A job search app that matches users with suitable job opportunities and provides career advice.",
+    "category": "Career",
+    "complexity": "Intermediate",
+    "targetAudience": "Job Seekers",
+    "trending": false
+  },
+  {
+    "id": 7,
+    "name": "TravelTrax",
+    "description": "A travel planning app that creates itineraries based on user preferences and budget.",
+    "category": "Travel",
+    "complexity": "Advanced",
+    "targetAudience": "Travel Enthusiasts",
+    "trending": true
+  },
+  {
+    "id": 8,
+    "name": "MindfulMoments",
+    "description": "An app that guides users through short mindfulness exercises to reduce stress.",
+    "category": "Health & Wellness",
+    "complexity": "Beginner",
+    "targetAudience": "Stressed Individuals",
+    "trending": false
+  },
+  {
+    "id": 9,
+    "name": "LanguageLeap",
+    "description": "A language learning app that uses immersive techniques and real-world scenarios.",
+    "category": "Education",
+    "complexity": "Intermediate",
+    "targetAudience": "Language Learners",
+    "trending": true
+  },
+  {
+    "id": 10,
+    "name": "PetPal",
+    "description": "An app that connects pet owners for playdates and pet-sitting services.",
+    "category": "Pets",
+    "complexity": "Beginner",
+    "targetAudience": "Pet Owners",
+    "trending": true
+  },
+  {
+    "id": 11,
+    "name": "ArtGalleryGuide",
+    "description": "An app that provides information about art galleries, exhibitions, and local artists.",
+    "category": "Art & Culture",
+    "complexity": "Intermediate",
+    "targetAudience": "Art Enthusiasts",
+    "trending": false
+  },
+  {
+    "id": 12,
+    "name": "CodeCraft",
+    "description": "A coding practice app with interactive coding challenges and tutorials.",
+    "category": "Technology",
+    "complexity": "Advanced",
+    "targetAudience": "Developers",
+    "trending": true
+  },
+  {
+    "id": 13,
+    "name": "HomeHarmony",
+    "description": "An app that helps users organize and declutter their living spaces.",
+    "category": "Home & Lifestyle",
+    "complexity": "Beginner",
+    "targetAudience": "Homeowners",
+    "trending": false
+  },
+  {
+    "id": 14,
+    "name": "MusicalMingle",
+    "description": "A music discovery app that connects users with similar music tastes and recommends new tracks.",
+    "category": "Music",
+    "complexity": "Intermediate",
+    "targetAudience": "Music Lovers",
+    "trending": true
+  },
+  {
+    "id": 15,
+    "name": "GreenThumb",
+    "description": "A gardening app that provides tips, plant care reminders, and a community for gardeners.",
+    "category": "Hobbies",
+    "complexity": "Beginner",
+    "targetAudience": "Gardeners",
+    "trending": true
+  },
+  {
+    "id": 16,
+    "name": "BookWorm",
+    "description": "A book recommendation app that suggests personalized reading lists based on user preferences.",
+    "category": "Books",
+    "complexity": "Intermediate",
+    "targetAudience": "Book Enthusiasts",
+    "trending": false
+  },
+  {
+    "id": 17,
+    "name": "TechTalk",
+    "description": "An app that curates and summarizes the latest tech news for quick consumption.",
+    "category": "Technology",
+    "complexity": "Beginner",
+    "targetAudience": "Tech Enthusiasts",
+    "trending": true
+  },
+  {
+    "id": 18,
+    "name": "MindMap",
+    "description": "An app for brainstorming and creating mind maps to enhance creativity and productivity.",
+    "category": "Productivity",
+    "complexity": "Intermediate",
+    "targetAudience": "Creatives",
+    "trending": true
+  },
+  {
+    "id": 19,
+    "name": "FashionFiesta",
+    "description": "A fashion app that suggests outfit ideas based on user preferences and the latest trends.",
+    "category": "Fashion",
+    "complexity": "Beginner",
+    "targetAudience": "Fashionistas",
+    "trending": false
+  },
+  {
+    "id": 20,
+    "name": "KidQuest",
+    "description": "An educational app for kids that combines learning with interactive games and quizzes.",
+    "category": "Education",
+    "complexity": "Beginner",
+    "targetAudience": "Children",
+    "trending": false
+  },
+  {
+    "id": 21,
+    "name": "CulinaryExplorer",
+    "description": "An app that explores and recommends exotic and unique dishes from around the world.",
+    "category": "Food & Drink",
+    "complexity": "Intermediate",
+    "targetAudience": "Foodies",
+    "trending": true
+  },
+  {
+    "id": 22,
+    "name": "MindfulMeditations",
+    "description": "A meditation app that guides users through mindfulness and relaxation exercises.",
+    "category": "Health & Wellness",
+    "complexity": "Beginner",
+    "targetAudience": "Stress Relief Seekers",
+    "trending": false
+  },
+  {
+    "id": 23,
+    "name": "HomeFitHub",
+    "description": "A fitness app that provides home workout routines and tracks progress.",
+    "category": "Health & Fitness",
+    "complexity": "Intermediate",
+    "targetAudience": "Home Workout Enthusiasts",
+    "trending": true
+  },
+  {
+    "id": 24,
+    "name": "PetHealthPal",
+    "description": "An app that helps pet owners track their pets' health records and appointments.",
+    "category": "Pets",
+    "complexity": "Beginner",
+    "targetAudience": "Pet Owners",
+    "trending": false
+  },
+  {
+    "id": 25,
+    "name": "DailyDose",
+    "description": "A habit-tracking app that encourages users to build positive daily habits.",
+    "category": "Productivity",
+    "complexity": "Intermediate",
+    "targetAudience": "Personal Development Enthusiasts",
+    "trending": true
+  }
+]
